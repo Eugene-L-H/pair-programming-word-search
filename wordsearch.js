@@ -13,6 +13,9 @@ const wordSearch = (letters, word) => {
   }
     
   return false;
+
 };
 
 module.exports = wordSearch
+
+// worked on project with Lin Zhu 
